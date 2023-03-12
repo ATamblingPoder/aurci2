@@ -20,15 +20,19 @@ jobs:
       uses: kopp/build-aur-packages@debug
       with:
         packages: >
+          arduino-ide-bin
           azure-cli
           conan
-          mons
+          firebase-tools-bin
+          flutter
+          micronucleus-git
           neovim-symlinks
+          nsis
           onedrive-abraunegg
           python-ipympl
           python-pydub
-          python-pyminifier
           jmtpfs
+          qtfm
           skypeforlinux-stable-bin
           srecord
           vdhcoapp-bin
