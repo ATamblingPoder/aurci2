@@ -10,7 +10,7 @@ on:
 
 jobs:
   build_repository:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: Get current time and date
       id: date
