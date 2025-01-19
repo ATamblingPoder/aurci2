@@ -48,7 +48,6 @@ jobs:
           libcava
           logseq-desktop-bin
           lutris-git
-          ncurses5-compat-libs
           qt6ct-kde
           uwsm
           youtube-music-bin
