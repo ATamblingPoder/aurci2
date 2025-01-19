@@ -46,8 +46,8 @@ jobs:
           libastal-tray-git
           libastal-wireplumber-git
           libcava
-          linux-cachyos
-          linux-cachyos-headers
+#          linux-cachyos
+#          linux-cachyos-headers
           logseq-desktop-bin
           lutris-git
           ncurses5-compat-libs
