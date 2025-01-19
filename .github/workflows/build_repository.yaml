@@ -57,6 +57,7 @@ jobs:
           uwsm
           youtube-music-bin
           wine-cachyos-opt
+          protonup-qt
 
     - name: List generated Files
       run: ls -1 > ${{ github.workspace }}/files.txt
